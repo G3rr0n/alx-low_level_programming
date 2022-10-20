@@ -1,7 +1,7 @@
 #include "main.h"
 #include <ctype.h>
 /**
- * _isalpha function - Shows 1 if the input is a
+ * _isalpha - function that shows 1 if the input is a
  * else other cases show 0
  * @c: parameter to check when functio is invoked
  *Return: 1 for letters, 0 for the rest

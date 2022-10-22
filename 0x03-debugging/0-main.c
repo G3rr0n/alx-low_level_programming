@@ -2,7 +2,6 @@
 
 /**
  * main - entry point and here for testing
- *
  * Return: 0 to exit code
  */
 
@@ -14,5 +13,4 @@ int main(void)
 	positive_or_negative(i);
 
 	return (0);
-
 }

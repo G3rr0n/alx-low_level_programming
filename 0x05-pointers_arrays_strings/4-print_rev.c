@@ -12,6 +12,8 @@ void print_rev(char *s)
 {
 	int forward, reverse, length;
 
+	forward = 0;
+
 	while (s[forward] != '\0')
 	{
 		forward++;

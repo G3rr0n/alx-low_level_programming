@@ -8,7 +8,7 @@
  * @nmemb: number of elements
  * @size: size of the byte of an element
  *
- * Return - exit func with required output
+ * Return: exit func with required output
  */
 
 void *_calloc(unsigned int nmemb, unsigned int size)

@@ -7,7 +7,7 @@
  * @s2: second concat param
  * @n: no of bytes of param 2 to add to param 1
  *
- * Return - null for a failure or pointer for success
+ * Return: null for a failure or pointer for success
  */
 
 char *string_nconcat(char *s1, char *s2, unsigned int n)
